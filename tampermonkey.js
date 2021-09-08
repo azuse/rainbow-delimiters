@@ -106,8 +106,8 @@
         RDBlocks.push("code");
     } else {
         RDBlocks.push("ul li");
-        //RDBlocks.push("pre");
-        //RDBlocks.push("code");
+        RDBlocks.push("pre");
+        RDBlocks.push("code");
     }
 
     // const RDBlocks = [
